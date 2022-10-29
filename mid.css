@@ -1,0 +1,15 @@
+.Banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Right-container{
+    flex-basis: 40%;
+}
+.Left-container{
+    font-size: 20px;
+    padding-left: 20px;
+}
+button{
+    background-color: darkgreen;
+}
